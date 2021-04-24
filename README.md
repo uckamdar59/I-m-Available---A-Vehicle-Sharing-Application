@@ -8,9 +8,14 @@ This creates needless use of the extra vehicle leading to more traffic and usele
 Helping Commuters of a specific organisation.
 
 # Functionality/features
-Login
+Login 
+
 Message via Mail
+
 Bill Split
+
 List of available destinations
+
 Filter desired location                 
+
 Profile of a Person 
